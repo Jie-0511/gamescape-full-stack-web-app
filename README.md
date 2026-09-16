@@ -230,6 +230,14 @@ gamescape-full-stack-web-app/
 │   └── admin-dashboard.html
 │
 ├── screenshots/
+│   ├── login.png
+│   ├── register.png
+│   ├── game-search-light.png
+│   ├── game-search-dark.png
+│   ├── game-details.png
+│   ├── profile.png
+│   └── admin-dashboard.png
+│
 ├── .gitignore
 └── README.md
 ```

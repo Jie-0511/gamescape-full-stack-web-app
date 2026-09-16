@@ -96,6 +96,62 @@ Users can switch between light and dark interface themes for improved usability 
 
 ---
 
+# 📸 Screenshots
+
+## 🔐 User Authentication
+
+GameScape provides user registration and login functionality for secure access to personalised features.
+
+### Login
+
+![GameScape Login](screenshots/login.png)
+
+### Registration
+
+![GameScape Registration](screenshots/register.png)
+
+---
+
+## 🎮 Game Search & Discovery
+
+Users can search for games, browse search results, view ratings, and access their personal game collection.
+
+### Light Mode
+
+![Game Search - Light Mode](screenshots/game-search-light.png)
+
+### Dark Mode
+
+GameScape supports both light and dark interface themes.
+
+![Game Search - Dark Mode](screenshots/game-search-dark.png)
+
+---
+
+## 🔎 Game Details
+
+Users can open individual games to view detailed information including release date, genres, platforms, developers, and ratings.
+
+![Game Details](screenshots/game-details.png)
+
+---
+
+## 👤 User Profile
+
+Registered users can manage profile information including their username, age, and custom avatar.
+
+![User Profile](screenshots/profile.png)
+
+---
+
+## 🛡️ Admin Dashboard
+
+Administrators have access to a dedicated dashboard for user management, including creating users, assigning administrator privileges, and deleting accounts.
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+---
+
 # 🏗️ Application Architecture
 
 GameScape follows a client-server architecture:
@@ -332,9 +388,18 @@ The project demonstrates experience with:
 
 ### My Contribution
 
-This project was completed collaboratively as a group.
+I worked primarily as a **Backend Developer** on GameScape, with a focus on connecting the application to external game data and supporting the backend functionality behind game discovery and personal collections.
 
-My individual contribution will be documented here based on the components and responsibilities I personally completed during the project.
+My main contributions included:
+
+* **RAWG API Integration** – Integrated the RAWG Video Games Database API to support game search and retrieval of detailed game information.
+* **Game Search & Details Backend** – Contributed to the server-side functionality and API endpoints used by the frontend to search for games and retrieve game details.
+* **Personal Game Collection APIs** – Developed backend functionality for managing user game collections, including adding games, retrieving a user's saved games, and removing games from the collection.
+* **Frontend–Backend Integration Support** – Worked on connecting game-related frontend interactions with backend/API functionality so that external game data and user collection features could operate together.
+* **Testing & Integration** – Supported integration and debugging of the game-related functionality as the frontend, backend, external API, and database components were brought together.
+* **Project Documentation** – Contributed to project documentation and the schema diagram as part of the team's milestone deliverables.
+
+This project was developed collaboratively by a four-member team. My primary responsibility was the **backend and API integration for game discovery and collection management**, while other team members led areas such as frontend UI development, database schema/authentication, and project coordination/QA.
 
 ---
 

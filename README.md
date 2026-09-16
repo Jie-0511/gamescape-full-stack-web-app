@@ -311,7 +311,7 @@ Authentication and administrative routes are protected through dedicated middlew
 ## 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Jie-0511/gamescape-full-stack-web-app.git
 cd gamescape-full-stack-web-app
 ```
 
